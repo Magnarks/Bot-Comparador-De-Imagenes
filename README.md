@@ -4,4 +4,4 @@ Bot hecho con Python y Selenium que seleccionada una imagen, captura uan foto de
 
 Aqui una demostración:
 
-[![Alt text](https://youtu.be/DEzkgxCtmu8)
+[![Alt text](https://img.youtube.com/vi/DEzkgxCtmu8/0.jpg)](https://youtu.be/DEzkgxCtmu8)
